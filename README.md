@@ -29,9 +29,6 @@
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=eslamsalah5&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 
-<!-- GitHub Contribution Snake -->
-<img src="https://github.com/eslamsalah5/eslamsalah5/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
-
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">&nbsp;***Technology Arsenal***
@@ -41,7 +38,7 @@
 ### 🚀 .NET Full Stack Mastery (Primary Focus)
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,typescript,sqlserver&theme=dark" />
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=.NET%20Full%20Stack&align=center&titleAlign=center&lineCount=4&theme=github_dark&line1=C%23,cs,239120;ASP.NET%20Core,dotnet,512BD4;Web%20API,dotnet,68217A;&line2=Entity%20Framework,dotnet,FF6B35;SQL%20Server,microsoftsqlserver,CC2927;LINQ,dotnet,239120;&line3=Angular,angular,DD0031;TypeScript,typescript,3178C6;RxJS,angular,B7178C;&line4=JWT,dotnet,000000;Identity,dotnet,512BD4;Clean%20Architecture,dotnet,20232A;" alt="My .NET Full Stack" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=.NET%20Full%20Stack&align=center&titleAlign=center&lineCount=4&theme=github_dark&line1=C%23,cs,239120;ASP.NET%20Core,aspnetcore,512BD4;Web%20API,webapi,68217A;&line2=Entity%20Framework,entityframework,FF6B35;SQL%20Server,microsoftsqlserver,CC2927;LINQ,linq,239120;&line3=Angular,angular,DD0031;TypeScript,typescript,3178C6;Bootstrap,bootstrap,7952B3;&line4=JWT,jwt,000000;Identity,identity,512BD4;SignalR,signalr,20232A;" alt="My .NET Full Stack" />
 
 ### 🌐 Frontend Excellence  
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,js&theme=dark" />
@@ -96,7 +93,7 @@
 <h3 align="center">💰 PayMind - Expense Management API</h3>
 <div align="center">  
 <a href="https://github.com/eslamsalah5/paymind" target="_blank">
-<img src="https://raw.githubusercontent.com/eslamsalah5/paymind/main/assets/paymind-preview.png" alt="PayMind API" height="200" style="border-radius: 10px;" />
+<strong>View Project on GitHub</strong>
 </a>  
 </div>
 <br>
@@ -119,7 +116,7 @@
 <h3 align="center">🛒 FashionHub - E-Commerce API</h3>
 <div align="center">  
 <a href="https://github.com/eslamsalah5/fashionhub-api" target="_blank">
-<img src="https://raw.githubusercontent.com/eslamsalah5/fashionhub-api/main/assets/fashionhub-preview.png" alt="FashionHub API" height="200" style="border-radius: 10px;" />
+<strong>View Project on GitHub</strong>
 </a>  
 </div>
 <br>
@@ -149,7 +146,7 @@
 <h3 align="center">🚌 Ra7ala - Complete Bus Management Platform</h3>
 <div align="center">  
 <a href="https://github.com/eslamsalah5/ra7ala-system" target="_blank">
-<img src="https://raw.githubusercontent.com/eslamsalah5/ra7ala-system/main/assets/ra7ala-preview.png" alt="Ra7ala System" height="200" style="border-radius: 10px;" />
+<strong>View Project on GitHub</strong>
 </a>  
 </div>
 <br>
@@ -195,7 +192,7 @@
 <h3 align="center">🏥 Epilepsy Health Assistant</h3>
 <div align="center">  
 <a href="https://github.com/eslamsalah5/epilepsy-app" target="_blank">
-<img src="https://raw.githubusercontent.com/eslamsalah5/epilepsy-app/main/assets/epilepsy-preview.png" alt="Epilepsy App" height="200" style="border-radius: 10px;" />
+<strong>View Project on GitHub</strong>
 </a>  
 </div>
 <br>
@@ -216,7 +213,7 @@
 <h3 align="center">🥗 Kito - Restaurant Mobile App</h3>
 <div align="center">  
 <a href="https://github.com/eslamsalah5/kito-app" target="_blank">
-<img src="https://raw.githubusercontent.com/eslamsalah5/kito-app/main/assets/kito-preview.png" alt="Kito App" height="200" style="border-radius: 10px;" />
+<strong>View Project on GitHub</strong>
 </a>  
 </div>
 <br>
