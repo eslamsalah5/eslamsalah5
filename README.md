@@ -10,7 +10,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-eslamsalah55-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eslamsalah55)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eslamsalah5.github.io/eslamsalah5)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eslamsalah5.github.io/portfolio/)
 [![Gmail](https://img.shields.io/badge/-eslamsalah5346-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslamsalah5346@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-+201013114472-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201013114472)
 
@@ -33,12 +33,12 @@
 Full Stack .NET Developer with a strong backend focus. I designed and built a **production-ready B2B pharmaceutical distribution platform** from scratch — **388+ REST endpoints**, AI-powered product mapping, Redis caching, Hangfire background jobs, and Azure deployment — achieving **60–70% faster API response times** and an **89% reduction in N+1 queries**.
 
 ```yaml
-Name:       Eslam Mohamed Salah
-Role:       Full Stack .NET Developer
-Location:   Maadi, Cairo, Egypt — Ready to Relocate
-Education:  B.Sc. IT — GPA 3.63, Excellent with Honors
-Training:   ITI .NET Full Stack (5 months intensive)
-Focus:      ASP.NET Core · Clean Architecture · Angular
+Name: Eslam Mohamed Salah
+Role: Full Stack .NET Developer
+Location: Maadi, Cairo, Egypt — Ready to Relocate
+Education: B.Sc. IT — GPA 3.63, Excellent with Honors
+Training: ITI .NET Full Stack (5 months intensive)
+Focus: ASP.NET Core · Clean Architecture · Angular
 ```
 
 <br clear="right"/>
@@ -64,13 +64,13 @@ Focus:      ASP.NET Core · Clean Architecture · Angular
 
 > Single-handedly architected and delivered the complete **GoDawa** enterprise platform
 
-| Layer | What I Built |
-|:---:|:---|
-| ⚙️ **Backend** | ASP.NET Core 9 — **388 REST endpoints**, 52 entities, 46 migrations, Clean Architecture |
-| 🖥️ **Frontend** | Angular 21 dashboard — **67 standalone components**, 17 modules, 70-permission RBAC |
-| ☁️ **Infra** | Redis caching · Hangfire jobs · Firebase FCM · Health checks · Azure deployment |
-| 🤖 **AI** | Product mapping engine — fuzzy Levenshtein matching processing **2,000–7,000+ items/session** |
-| 🔗 **ERP** | External warehouse integration — dual auth (JWT + API Key) · optimistic-locking concurrency |
+|      Layer      | What I Built                                                                                  |
+| :-------------: | :-------------------------------------------------------------------------------------------- |
+| ⚙️ **Backend**  | ASP.NET Core 9 — **388 REST endpoints**, 52 entities, 46 migrations, Clean Architecture       |
+| 🖥️ **Frontend** | Angular 21 dashboard — **67 standalone components**, 17 modules, 70-permission RBAC           |
+|  ☁️ **Infra**   | Redis caching · Hangfire jobs · Firebase FCM · Health checks · Azure deployment               |
+|    🤖 **AI**    | Product mapping engine — fuzzy Levenshtein matching processing **2,000–7,000+ items/session** |
+|   🔗 **ERP**    | External warehouse integration — dual auth (JWT + API Key) · optimistic-locking concurrency   |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -87,6 +87,7 @@ Focus:      ASP.NET Core · Clean Architecture · Angular
 <td align="center" width="50%">
 
 ### ⚙️ Backend
+
 <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" /><br><br>
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core_9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -103,6 +104,7 @@ Focus:      ASP.NET Core · Clean Architecture · Angular
 <td align="center" width="50%">
 
 ### 🅰️ Frontend
+
 <img src="https://skillicons.dev/icons?i=angular,typescript,js,html,css,bootstrap&theme=dark" /><br><br>
 ![Angular](https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Signals](https://img.shields.io/badge/Signals-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -115,6 +117,7 @@ Focus:      ASP.NET Core · Clean Architecture · Angular
 <td align="center">
 
 ### 📱 Mobile
+
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" /><br><br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-4CAF50?style=flat-square)
@@ -124,6 +127,7 @@ Focus:      ASP.NET Core · Clean Architecture · Angular
 <td align="center">
 
 ### ☁️ Cloud & DevOps
+
 <img src="https://skillicons.dev/icons?i=azure,docker,git,github&theme=dark" /><br><br>
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -170,7 +174,7 @@ Focus:      ASP.NET Core · Clean Architecture · Angular
 
 [![GitHub](https://img.shields.io/badge/GitHub-GoDawa--Showcase-181717?style=for-the-badge&logo=github)](https://github.com/eslamsalah5/GoDawa-Showcase)
 
-*Production-ready platform connecting pharmacies with warehouses across Egypt — built entirely by me*
+_Production-ready platform connecting pharmacies with warehouses across Egypt — built entirely by me_
 
 </div>
 
@@ -178,11 +182,12 @@ Focus:      ASP.NET Core · Clean Architecture · Angular
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### ⚙️ Backend — ASP.NET Core 9
 
 **🏗️ Architecture**
+
 - Clean Architecture · **4 strict layers** (dependencies inward only)
 - **Result\<T\>** across all 37 services — fluent OnSuccess/OnFailure/Map
 - Repository + Unit of Work with **Lazy\<T\>** repos
@@ -190,37 +195,43 @@ Focus:      ASP.NET Core · Clean Architecture · Angular
 - Soft delete + global EF query filters on all entities
 
 **🔒 Security**
+
 - **Dual auth:** JWT Bearer + custom `ApiKeyAuthenticationHandler`
 - **7 user roles** with multi-device session tracking (UAParser)
 - Per-session FCM tokens · Rate limiting · 3-layer validation
 
-**🤖 AI Product Mapping** *(48 endpoints)*
+**🤖 AI Product Mapping** _(48 endpoints)_
+
 - Barcode → Template → **Fuzzy Levenshtein** → Price check
 - Hangfire jobs processing **2,000–7,000+ items/session**
 - 7 duplicate resolution strategies + immutable PriceHistory audit
 
-**📊 Analytics** *(86+ endpoints)*
+**📊 Analytics** _(86+ endpoints)_
+
 - Sales · TeleSales · SalesMan · DataEntry performance dashboards
 - Bottom-up pharmacy target aggregation with immutable history
 
 **⚡ Infrastructure**
+
 - **Redis** caching with in-memory fallback
 - SplitQuery + EnableRetryOnFailure(5)
 - Serilog → Console + File + Seq · Health checks
 - 5 Hangfire workers · 2 queues · **Azure** deployment
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🖥️ Dashboard — Angular 21
 
 **🏗️ Architecture**
+
 - **100% standalone components** — zero NgModules
 - **Signal-based state** — `signal()` + `computed()` everywhere
 - Functional guards: `authGuard`, `permissionGuard(Permission[])`
 - Lazy-loaded routes across **17 feature modules**
 
-**🔒 RBAC** *(5 Roles × 70 Permissions)*
+**🔒 RBAC** _(5 Roles × 70 Permissions)_
+
 - JWT with automatic token refresh via `authInterceptor`
 - 401 → refresh → retry original → logout on failure
 - Permissions enforced at **route + component level**
@@ -230,6 +241,7 @@ Focus:      ASP.NET Core · Clean Architecture · Angular
 Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) · Products (5) · Orders (3) · Call Requests (4) · Returns (5) · Mapping (8) · Price History (5) · Targets (3) · Locations (1) · Uploads (2) · Profile (1)
 
 **🎨 Design System**
+
 - Bootstrap 5.3.8 + Bootstrap Icons 1.13.1
 - Custom purple theme — **153 CSS variables**
 - RTL-ready (Arabic locale) · Scoped styles · AOT + esbuild
@@ -242,11 +254,11 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 
 #### 📈 By The Numbers
 
-| | Backend (API) | | Dashboard (Angular) |
-|:---:|:---:|:---:|:---:|
-| **388** REST Endpoints | **52** Domain Entities | **67** Standalone Components | **17** Feature Modules |
-| **37** Services / 73 Interfaces | **46** EF Migrations | **82** Routes (lazy-loaded) | **70** RBAC Permissions |
-| **119** DTOs / 34 Validators | **8** Background Jobs | **25** Injectable Services | **153** CSS Variables |
+|                                 |     Backend (API)      |                              |   Dashboard (Angular)   |
+| :-----------------------------: | :--------------------: | :--------------------------: | :---------------------: |
+|     **388** REST Endpoints      | **52** Domain Entities | **67** Standalone Components | **17** Feature Modules  |
+| **37** Services / 73 Interfaces |  **46** EF Migrations  | **82** Routes (lazy-loaded)  | **70** RBAC Permissions |
+|  **119** DTOs / 34 Validators   | **8** Background Jobs  |  **25** Injectable Services  |  **153** CSS Variables  |
 
 <br>
 
@@ -284,7 +296,7 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 [![GitHub](https://img.shields.io/badge/GitHub-Ra7alaa-181717?style=for-the-badge&logo=github)](https://github.com/Ra7alaa)
 [![Demo](https://img.shields.io/badge/▶_Demo_Video-DD0031?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1rck1qGyDNXrA1esKJnvay9pvpRA5hofc/view?usp=sharing)
 
-*Full-stack bus management system with 5 roles, RAG AI chatbot, and Stripe payments*
+_Full-stack bus management system with 5 roles, RAG AI chatbot, and Stripe payments_
 
 </div>
 
@@ -293,6 +305,7 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 <td width="33%">
 
 #### ⚙️ Backend
+
 - ASP.NET Core 9 Web API
 - Onion Architecture
 - Repository + Unit of Work
@@ -303,6 +316,7 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 <td width="33%">
 
 #### 🖥️ Frontend
+
 - Angular 19 + TypeScript
 - Role-based dashboards
 - Trip search & booking
@@ -312,6 +326,7 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 <td width="34%">
 
 #### 🤖 AI Feature
+
 - **RAG-powered chatbot**
 - Natural-language route inquiries
 - No strict form input needed
@@ -350,7 +365,7 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 
 <div align="center">
 
-*Multi-wallet expense tracking with OAuth integrations and automated payment reminders*
+_Multi-wallet expense tracking with OAuth integrations and automated payment reminders_
 
 </div>
 
@@ -397,7 +412,7 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 
 [![GitHub](https://img.shields.io/badge/GitHub-FashionHub--Api-181717?style=for-the-badge&logo=github)](https://github.com/eslamsalah5/FashionHub-Api)
 
-*Backend API for a fashion e-commerce platform with Stripe payments*
+_Backend API for a fashion e-commerce platform with Stripe payments_
 
 </div>
 
@@ -441,7 +456,7 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 
 <div align="center">
 
-*Flutter app supporting epilepsy patients, doctors & companions — ML-powered detection + real-time emergency alerts* <br>
+_Flutter app supporting epilepsy patients, doctors & companions — ML-powered detection + real-time emergency alerts_ <br>
 **Zagazig University Graduation Project**
 
 </div>
@@ -451,6 +466,7 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 <td width="33%">
 
 #### 🧑‍🤝‍🧑 Patient
+
 - Find & rate epilepsy specialists
 - Medication reminders
 - In-app doctor chat
@@ -460,6 +476,7 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 <td width="33%">
 
 #### 🩺 Doctor
+
 - Prescription management
 - Assign medications to patients
 - Accept/decline appointments
@@ -469,6 +486,7 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 <td width="34%">
 
 #### 🆘 Companion
+
 - **Emergency alerts** with GPS location via FCM
 - Step-by-step assistance chatbot
 - Real-time seizure notifications
@@ -511,7 +529,7 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 
 [![Demo](https://img.shields.io/badge/▶_Demo_Video-02569B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mZmb5LDvIvU02wtsnY5tYqMxWf-1Jvfl/view?usp=sharing)
 
-*Freelance Flutter app — browse meals, track calories, and order with PayPal & Stripe*
+_Freelance Flutter app — browse meals, track calories, and order with PayPal & Stripe_
 
 </div>
 
@@ -550,8 +568,8 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eslamsalah5&show_icons=true&count_private=true&hide_border=true&title_color=512BD4&icon_color=512BD4&text_color=c9d1d9&bg_color=0d1117" alt="Eslam's GitHub Stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamsalah5&layout=compact&hide_border=true&title_color=512BD4&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eslamsalah5&show_icons=true&count_private=true&hide_border=true&title_color=512BD4&icon_color=512BD4&text_color=c9d1d9&bg_color=0d1117" alt="Eslam's GitHub Stats" />
+<img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eslamsalah5&layout=compact&hide_border=true&title_color=512BD4&text_color=c9d1d9&bg_color=0d1117" />
 
 <br>
 
@@ -620,7 +638,7 @@ Auth (6) · Dashboard (1) · Employees (8) · Pharmacies (6) · Warehouses (12) 
 <a href="https://linkedin.com/in/eslamsalah55"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/eslamsalah5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://wa.me/201013114472"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://eslamsalah5.github.io/eslamsalah5"><img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://eslamsalah5.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <br><br>
 
