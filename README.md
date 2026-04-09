@@ -579,15 +579,6 @@ _Freelance Flutter app — browse meals, track calories, and order with PayPal &
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamsalah5&bg_color=0d1117&color=512BD4&line=DD0031&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
-<br>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eslamsalah5/eslamsalah5/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eslamsalah5/eslamsalah5/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/eslamsalah5/eslamsalah5/output/github-snake-dark.svg" />
-</picture>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -615,12 +606,11 @@ _Freelance Flutter app — browse meals, track calories, and order with PayPal &
 
 #### 📜 Certifications
 
-![TypeScript](https://img.shields.io/badge/TypeScript_Fundamentals-Mahara--Tech_ITI-3178C6?style=for-the-badge)
-![Payment](https://img.shields.io/badge/PayPal_%26_Stripe-Udemy-A435F0?style=for-the-badge)
-![Clean Arch](https://img.shields.io/badge/Clean_Architecture-Udemy-A435F0?style=for-the-badge)
-![BLoC](https://img.shields.io/badge/BLoC_%26_MVVM-Udemy-A435F0?style=for-the-badge)
-![DB](https://img.shields.io/badge/Database_Fundamentals-Mahara--Tech-CC2927?style=for-the-badge)
-![CCNA](https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript_Fundamentals-Mahara--Tech_ITI-3178C6?style=for-the-badge)](https://drive.google.com/file/d/1HceI2ci90Igy1P6QvI0DRlWrhvaW9iT9/view)
+[![Payment](https://img.shields.io/badge/PayPal_%26_Stripe-Udemy-A435F0?style=for-the-badge)](https://drive.google.com/file/d/1RNxuwoOctdltx5E21amrs4KOsRr8XFk2/view)
+[![BLoC](https://img.shields.io/badge/BLoC_%26_MVVM-Udemy-A435F0?style=for-the-badge)](https://drive.google.com/file/d/1UIwjGcJVTFzagidqrIkVOylV7ys8E-Hd/view)
+[![DB](https://img.shields.io/badge/Database_Fundamentals-Mahara--Tech-CC2927?style=for-the-badge)](https://drive.google.com/file/d/18pSfvRIHOj8KpCiBZ8hFpgo93jw_GKgc/view)
+[![CCNA](https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://drive.google.com/file/d/1X9lerlxKiFDFLqO8qmUvV66vbO9E5k08/view)
 
 </div>
 
